@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.0.15](https://github.com/adaptdk/marketplace-partner-apps/compare/intershop-connector-v1.0.14...intershop-connector-v1.0.15) (2024-09-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/intershop ([#2537](https://github.com/adaptdk/marketplace-partner-apps/issues/2537)) ([c1dbc67](https://github.com/adaptdk/marketplace-partner-apps/commit/c1dbc67267fff58b88411b95f82f8bef84de6666))
+* **deps:** bump @contentful/f36-components from 4.67.3 to 4.67.4 in /apps/intershop ([#2387](https://github.com/adaptdk/marketplace-partner-apps/issues/2387)) ([a4c4b8f](https://github.com/adaptdk/marketplace-partner-apps/commit/a4c4b8f0532abcd6ebb1d5292baa711aeb0b178c))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/intershop ([#2482](https://github.com/adaptdk/marketplace-partner-apps/issues/2482)) ([e2890ed](https://github.com/adaptdk/marketplace-partner-apps/commit/e2890ed29bae276f4261b998b32278281e433f8d))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/intershop in the production-dependencies group ([#2909](https://github.com/adaptdk/marketplace-partner-apps/issues/2909)) ([6e11ba2](https://github.com/adaptdk/marketplace-partner-apps/commit/6e11ba2901a784a011fd5664da290216114dd402))
+* **deps:** Bump contentful-management from 11.29.1 to 11.30.2 in /apps/intershop ([#2349](https://github.com/adaptdk/marketplace-partner-apps/issues/2349)) ([72bdd98](https://github.com/adaptdk/marketplace-partner-apps/commit/72bdd9800ec0dde9a2ca5058cbc1a37279ec1dbd))
+* **deps:** bump contentful-management from 11.30.2 to 11.31.0 in /apps/intershop ([#2405](https://github.com/adaptdk/marketplace-partner-apps/issues/2405)) ([5cb68e4](https://github.com/adaptdk/marketplace-partner-apps/commit/5cb68e4787a65d5c7df2125c5efb59b47c8ed1bc))
+* **deps:** bump contentful-management from 11.31.0 to 11.31.1 in /apps/intershop ([#2425](https://github.com/adaptdk/marketplace-partner-apps/issues/2425)) ([d7a90b0](https://github.com/adaptdk/marketplace-partner-apps/commit/d7a90b06041127c290d6e1876fa88b7d7d9df489))
+* **deps:** bump contentful-management from 11.31.1 to 11.31.4 in /apps/intershop ([#2536](https://github.com/adaptdk/marketplace-partner-apps/issues/2536)) ([1abc230](https://github.com/adaptdk/marketplace-partner-apps/commit/1abc2308af390230609de9676bd9b224d6160172))
+* **deps:** bump contentful-management from 11.31.4 to 11.31.6 in /apps/intershop ([#2550](https://github.com/adaptdk/marketplace-partner-apps/issues/2550)) ([fa10258](https://github.com/adaptdk/marketplace-partner-apps/commit/fa102586e19a2b76ede9bd66d0473cc696171cd2))
+* **deps:** bump contentful-management from 11.31.6 to 11.31.7 in /apps/intershop ([#2595](https://github.com/adaptdk/marketplace-partner-apps/issues/2595)) ([de18d60](https://github.com/adaptdk/marketplace-partner-apps/commit/de18d60b96632832dce0582cabb66805e33019ab))
+* **deps:** bump contentful-management from 11.31.7 to 11.31.8 in /apps/intershop in the production-dependencies group ([#2612](https://github.com/adaptdk/marketplace-partner-apps/issues/2612)) ([f724fa5](https://github.com/adaptdk/marketplace-partner-apps/commit/f724fa52110c09a98b483c326ea58df212d1f5d2))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/intershop in the production-dependencies group ([#2695](https://github.com/adaptdk/marketplace-partner-apps/issues/2695)) ([a4367ed](https://github.com/adaptdk/marketplace-partner-apps/commit/a4367edcc761ec4a75eedbe847d2175b28475dc8))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/intershop in the production-dependencies group ([#2727](https://github.com/adaptdk/marketplace-partner-apps/issues/2727)) ([f7f5eb8](https://github.com/adaptdk/marketplace-partner-apps/commit/f7f5eb8ab201965c4d73798ef271d384a49b00b3))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/intershop in the production-dependencies group ([#2771](https://github.com/adaptdk/marketplace-partner-apps/issues/2771)) ([0394c18](https://github.com/adaptdk/marketplace-partner-apps/commit/0394c18f7df3974b1c6b02e7e027f91183bd02ee))
+* **deps:** bump micromatch from 4.0.5 to 4.0.8 in /apps/intershop ([#2646](https://github.com/adaptdk/marketplace-partner-apps/issues/2646)) ([217526d](https://github.com/adaptdk/marketplace-partner-apps/commit/217526d17e322467714f41ccfa2565e449259ab8))
+* **deps:** bump path-to-regexp and express in /apps/intershop ([#2840](https://github.com/adaptdk/marketplace-partner-apps/issues/2840)) ([4915f2b](https://github.com/adaptdk/marketplace-partner-apps/commit/4915f2bb93658570e600bec9268126bd44a7f83f))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#2784](https://github.com/adaptdk/marketplace-partner-apps/issues/2784)) ([06b183d](https://github.com/adaptdk/marketplace-partner-apps/commit/06b183d3356689d34c5b324a156b2a98fec0f0eb))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#2849](https://github.com/adaptdk/marketplace-partner-apps/issues/2849)) ([047f162](https://github.com/adaptdk/marketplace-partner-apps/commit/047f1620fc6469c54c48a6cf83e512825c9557c2))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#2937](https://github.com/adaptdk/marketplace-partner-apps/issues/2937)) ([20a3001](https://github.com/adaptdk/marketplace-partner-apps/commit/20a3001ccb75f236883d4bb81e494367109f82c4))
+* **deps:** bump webpack from 5.88.2 to 5.94.0 in /apps/intershop ([#2702](https://github.com/adaptdk/marketplace-partner-apps/issues/2702)) ([5532575](https://github.com/adaptdk/marketplace-partner-apps/commit/553257548b55363e2e4f9c0f92c21dc1290773a4))
+
 ## [1.0.14](https://github.com/contentful/marketplace-partner-apps/compare/intershop-connector-v1.0.13...intershop-connector-v1.0.14) (2024-09-03)
 
 

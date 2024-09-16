@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.0.24](https://github.com/adaptdk/marketplace-partner-apps/compare/surfer-contentful-app-v1.0.23...surfer-contentful-app-v1.0.24) (2024-09-16)
+
+
+### Bug Fixes
+
+* **deps:** Bump @contentful/app-sdk from 4.28.0 to 4.29.0 in /apps/surfer ([#2337](https://github.com/adaptdk/marketplace-partner-apps/issues/2337)) ([b35f67d](https://github.com/adaptdk/marketplace-partner-apps/commit/b35f67d342c3decc36e5beba08780dd28793b62e))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/surfer ([#2540](https://github.com/adaptdk/marketplace-partner-apps/issues/2540)) ([e377363](https://github.com/adaptdk/marketplace-partner-apps/commit/e377363dece71c4e4eb68279df5c9853a5d53ce5))
+* **deps:** bump @contentful/f36-components from 4.67.3 to 4.67.4 in /apps/surfer ([#2397](https://github.com/adaptdk/marketplace-partner-apps/issues/2397)) ([fba4575](https://github.com/adaptdk/marketplace-partner-apps/commit/fba4575c590bb5c8a0b112cdc7e19ca97c5d0893))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/surfer ([#2490](https://github.com/adaptdk/marketplace-partner-apps/issues/2490)) ([27f7a30](https://github.com/adaptdk/marketplace-partner-apps/commit/27f7a300383f91178db803dcd2193ef163a2d0c9))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/surfer in the production-dependencies group ([#2785](https://github.com/adaptdk/marketplace-partner-apps/issues/2785)) ([293b6f5](https://github.com/adaptdk/marketplace-partner-apps/commit/293b6f5b1b414939cb5402cac652dfd1350ddc8a))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/surfer in the production-dependencies group ([#2853](https://github.com/adaptdk/marketplace-partner-apps/issues/2853)) ([3ec3904](https://github.com/adaptdk/marketplace-partner-apps/commit/3ec390448706d744b762f7ff670d7968b54befcb))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/surfer in the production-dependencies group ([#2911](https://github.com/adaptdk/marketplace-partner-apps/issues/2911)) ([b38bddd](https://github.com/adaptdk/marketplace-partner-apps/commit/b38bddd049dea028dbe27ccc9e338b9206113985))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/surfer in the production-dependencies group ([#2927](https://github.com/adaptdk/marketplace-partner-apps/issues/2927)) ([96b79fd](https://github.com/adaptdk/marketplace-partner-apps/commit/96b79fd054de99ed14b849cd51125a8b7c745f1a))
+* **deps:** Bump @contentful/rich-text-html-renderer from 16.6.6 to 16.6.7 in /apps/surfer ([#2348](https://github.com/adaptdk/marketplace-partner-apps/issues/2348)) ([b8450ee](https://github.com/adaptdk/marketplace-partner-apps/commit/b8450ee6222e061100d7d943717182d5cf66fc6f))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.6.7 to 16.6.8 in /apps/surfer ([#2373](https://github.com/adaptdk/marketplace-partner-apps/issues/2373)) ([6017239](https://github.com/adaptdk/marketplace-partner-apps/commit/6017239a00c2c273a07162d0a449ee209b5c9c75))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.6.8 to 16.6.9 in /apps/surfer in the production-dependencies group ([#2669](https://github.com/adaptdk/marketplace-partner-apps/issues/2669)) ([8aa6183](https://github.com/adaptdk/marketplace-partner-apps/commit/8aa6183e82c418b0939b6f6029c13ac66f3637b9))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.6.9 to 16.6.10 in /apps/surfer in the production-dependencies group ([#2831](https://github.com/adaptdk/marketplace-partner-apps/issues/2831)) ([e51449b](https://github.com/adaptdk/marketplace-partner-apps/commit/e51449b5a24a00440d2a4fd1eac2b556988115d3))
+* **deps:** Bump contentful-management from 11.30.1 to 11.30.2 in /apps/surfer ([#2351](https://github.com/adaptdk/marketplace-partner-apps/issues/2351)) ([251f1ae](https://github.com/adaptdk/marketplace-partner-apps/commit/251f1aecb946e8f922949b5aa310a9d7b118dbf2))
+* **deps:** bump contentful-management from 11.30.2 to 11.31.0 in /apps/surfer ([#2420](https://github.com/adaptdk/marketplace-partner-apps/issues/2420)) ([de8f283](https://github.com/adaptdk/marketplace-partner-apps/commit/de8f283a46f548295a748f27b2c476dca4e2a7da))
+* **deps:** bump contentful-management from 11.31.0 to 11.31.1 in /apps/surfer ([#2422](https://github.com/adaptdk/marketplace-partner-apps/issues/2422)) ([395c741](https://github.com/adaptdk/marketplace-partner-apps/commit/395c741631297677ff094b0b6a73f3d49373d69b))
+* **deps:** bump contentful-management from 11.31.1 to 11.31.4 in /apps/surfer ([#2541](https://github.com/adaptdk/marketplace-partner-apps/issues/2541)) ([36cd7d3](https://github.com/adaptdk/marketplace-partner-apps/commit/36cd7d3fd32b9e36ce31fe60b1286267591010d4))
+* **deps:** bump contentful-management from 11.31.4 to 11.31.6 in /apps/surfer ([#2554](https://github.com/adaptdk/marketplace-partner-apps/issues/2554)) ([e026280](https://github.com/adaptdk/marketplace-partner-apps/commit/e026280f3b2af9395004074ef95eb5dc224198da))
+* **deps:** bump contentful-management from 11.31.6 to 11.31.7 in /apps/surfer ([#2591](https://github.com/adaptdk/marketplace-partner-apps/issues/2591)) ([19f6761](https://github.com/adaptdk/marketplace-partner-apps/commit/19f6761d2e93913d0532d0bed258d898232ada17))
+* **deps:** bump contentful-management from 11.31.7 to 11.31.8 in /apps/surfer in the production-dependencies group ([#2609](https://github.com/adaptdk/marketplace-partner-apps/issues/2609)) ([3ea251e](https://github.com/adaptdk/marketplace-partner-apps/commit/3ea251e246a49c6ee7978932a824782b6f469ada))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/surfer in the production-dependencies group ([#2689](https://github.com/adaptdk/marketplace-partner-apps/issues/2689)) ([874a55a](https://github.com/adaptdk/marketplace-partner-apps/commit/874a55a6250f2aa3a7c408ccf08b3d4c4e28a86c))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/surfer in the production-dependencies group ([#2730](https://github.com/adaptdk/marketplace-partner-apps/issues/2730)) ([13a81ae](https://github.com/adaptdk/marketplace-partner-apps/commit/13a81aee5949285c440c16165144f4739cdaabcb))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/surfer in the production-dependencies group ([#2757](https://github.com/adaptdk/marketplace-partner-apps/issues/2757)) ([9631b45](https://github.com/adaptdk/marketplace-partner-apps/commit/9631b45ec131b0c2001d270b34b6f06bb7cf3410))
+* Prefix env variable with 'VITE' to be injected ([#2827](https://github.com/adaptdk/marketplace-partner-apps/issues/2827)) ([a129c6b](https://github.com/adaptdk/marketplace-partner-apps/commit/a129c6bd945d3a6e345f9c32b8c674b6950b6570))
+
 ## [1.0.23](https://github.com/contentful/marketplace-partner-apps/compare/surfer-contentful-app-v1.0.22...surfer-contentful-app-v1.0.23) (2024-09-06)
 
 
