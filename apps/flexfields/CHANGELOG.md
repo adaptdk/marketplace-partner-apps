@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.2.5](https://github.com/adaptdk/marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.2.4...thrillworks-flex-fields-app-v1.2.5) (2024-09-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.25.0 to 4.29.0 in /apps/flexfields ([#2501](https://github.com/adaptdk/marketplace-partner-apps/issues/2501)) ([ec9d28e](https://github.com/adaptdk/marketplace-partner-apps/commit/ec9d28ef3511b676b891637be4efa6d9bb6ebded))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/flexfields ([#2552](https://github.com/adaptdk/marketplace-partner-apps/issues/2552)) ([3fb7a9e](https://github.com/adaptdk/marketplace-partner-apps/commit/3fb7a9ec1c9d36773bdae754f6ae74120e614ac1))
+* **deps:** bump @contentful/default-field-editors from 1.6.54 to 1.7.5 in /apps/flexfields ([#2508](https://github.com/adaptdk/marketplace-partner-apps/issues/2508)) ([cd97e07](https://github.com/adaptdk/marketplace-partner-apps/commit/cd97e073cd1ad98178ec5aed7b9f7bad4d83def3))
+* **deps:** bump @contentful/default-field-editors from 1.7.11 to 1.7.12 in /apps/flexfields in the production-dependencies group ([#2807](https://github.com/adaptdk/marketplace-partner-apps/issues/2807)) ([35129ed](https://github.com/adaptdk/marketplace-partner-apps/commit/35129eda47603f22213e10f0040626590c6d572b))
+* **deps:** bump @contentful/default-field-editors from 1.7.5 to 1.7.6 in /apps/flexfields ([#2517](https://github.com/adaptdk/marketplace-partner-apps/issues/2517)) ([f06ca0d](https://github.com/adaptdk/marketplace-partner-apps/commit/f06ca0d4c195d5a7935b0cc012c1f9dafa2a1d8c))
+* **deps:** bump @contentful/default-field-editors from 1.7.6 to 1.7.8 in /apps/flexfields ([#2560](https://github.com/adaptdk/marketplace-partner-apps/issues/2560)) ([348b70d](https://github.com/adaptdk/marketplace-partner-apps/commit/348b70d1b27decc7ddabb9e373a2b28e2caa1030))
+* **deps:** bump @contentful/default-field-editors from 1.7.8 to 1.7.9 in /apps/flexfields ([#2569](https://github.com/adaptdk/marketplace-partner-apps/issues/2569)) ([f114894](https://github.com/adaptdk/marketplace-partner-apps/commit/f1148944dd1d61c7dbdcfdfe543f6cb73a2af3bd))
+* **deps:** bump @contentful/default-field-editors from 1.7.9 to 1.7.10 in /apps/flexfields ([#2580](https://github.com/adaptdk/marketplace-partner-apps/issues/2580)) ([fa82cb3](https://github.com/adaptdk/marketplace-partner-apps/commit/fa82cb36d08e4f40e0403ddd433060fddf3693a7))
+* **deps:** bump @contentful/f36-components from 4.66.0 to 4.68.1 in /apps/flexfields ([#2488](https://github.com/adaptdk/marketplace-partner-apps/issues/2488)) ([ce62fe4](https://github.com/adaptdk/marketplace-partner-apps/commit/ce62fe46fc12adffbf62cba32f779e944103d7c8))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/flexfields in the production-dependencies group ([#2844](https://github.com/adaptdk/marketplace-partner-apps/issues/2844)) ([57b5113](https://github.com/adaptdk/marketplace-partner-apps/commit/57b51135ab46a1114e8f0a9e71d76ff216e92f18))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/flexfields in the production-dependencies group ([#2903](https://github.com/adaptdk/marketplace-partner-apps/issues/2903)) ([2c77c67](https://github.com/adaptdk/marketplace-partner-apps/commit/2c77c67aa7287c24fd8d2f8dac8968dbe169d081))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/flexfields in the production-dependencies group ([#2931](https://github.com/adaptdk/marketplace-partner-apps/issues/2931)) ([16d64ed](https://github.com/adaptdk/marketplace-partner-apps/commit/16d64ed627ee87e852344fe29c7b1b1fdef4f249))
+* **deps:** bump @contentful/f36-multiselect from 4.23.1 to 4.24.0 in /apps/flexfields ([#2497](https://github.com/adaptdk/marketplace-partner-apps/issues/2497)) ([e2b6664](https://github.com/adaptdk/marketplace-partner-apps/commit/e2b66640be33efca473114dbaa0484917c0e0f65))
+* **deps:** bump @emotion/css from 11.11.2 to 11.13.0 in /apps/flexfields ([#2435](https://github.com/adaptdk/marketplace-partner-apps/issues/2435)) ([cf4e0ee](https://github.com/adaptdk/marketplace-partner-apps/commit/cf4e0ee23a1cf191f45b3d62c3002f23414a008b))
+* **deps:** bump contentful-management from 11.27.0 to 11.31.0 in /apps/flexfields ([#2409](https://github.com/adaptdk/marketplace-partner-apps/issues/2409)) ([edab26f](https://github.com/adaptdk/marketplace-partner-apps/commit/edab26f0eb43f54327cc7567479755c2839c608e))
+* **deps:** bump contentful-management from 11.31.0 to 11.31.1 in /apps/flexfields ([#2441](https://github.com/adaptdk/marketplace-partner-apps/issues/2441)) ([2ce8938](https://github.com/adaptdk/marketplace-partner-apps/commit/2ce8938031762e11575677bbff58be4c6f8339f9))
+* **deps:** bump contentful-management from 11.31.1 to 11.31.4 in /apps/flexfields ([#2533](https://github.com/adaptdk/marketplace-partner-apps/issues/2533)) ([800a49a](https://github.com/adaptdk/marketplace-partner-apps/commit/800a49a418f5379252a99f55765dc7e45ff7ef65))
+* **deps:** bump contentful-management from 11.31.4 to 11.31.8 in /apps/flexfields in the production-dependencies group ([#2610](https://github.com/adaptdk/marketplace-partner-apps/issues/2610)) ([89b70c2](https://github.com/adaptdk/marketplace-partner-apps/commit/89b70c2fdf052012222746da809cc21a64b70659))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/flexfields in the production-dependencies group ([#2685](https://github.com/adaptdk/marketplace-partner-apps/issues/2685)) ([f9bddf5](https://github.com/adaptdk/marketplace-partner-apps/commit/f9bddf5e36c86845ee60124a2e2b3bfbc66107a2))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/flexfields in the production-dependencies group ([#2740](https://github.com/adaptdk/marketplace-partner-apps/issues/2740)) ([92d467a](https://github.com/adaptdk/marketplace-partner-apps/commit/92d467a4606ffcc67774a283cb51bb7a58d80f28))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/flexfields in the production-dependencies group ([#2781](https://github.com/adaptdk/marketplace-partner-apps/issues/2781)) ([99ade7b](https://github.com/adaptdk/marketplace-partner-apps/commit/99ade7b0b25febf84b23f871c8d2160596b91bc5))
+* **deps:** bump the production-dependencies group in /apps/flexfields with 2 updates ([#2798](https://github.com/adaptdk/marketplace-partner-apps/issues/2798)) ([8fd7034](https://github.com/adaptdk/marketplace-partner-apps/commit/8fd703496202f5194e51952c6c5fe9653e1b9add))
+* **FlexFields:** fallback to the default JSON editor for entry fields that use other apps ([#2752](https://github.com/adaptdk/marketplace-partner-apps/issues/2752)) ([928d305](https://github.com/adaptdk/marketplace-partner-apps/commit/928d305cc14f9f3b07234bb4bab4298bb7bdd979))
+
 ## [1.2.4](https://github.com/contentful/marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.2.3...thrillworks-flex-fields-app-v1.2.4) (2024-09-04)
 
 

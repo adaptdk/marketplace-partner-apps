@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.0.5](https://github.com/adaptdk/marketplace-partner-apps/compare/shopify-sku-v2.0.4...shopify-sku-v2.0.5) (2024-09-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.67.3 to 4.67.4 in /apps/shopify ([#2391](https://github.com/adaptdk/marketplace-partner-apps/issues/2391)) ([a8dc1f8](https://github.com/adaptdk/marketplace-partner-apps/commit/a8dc1f8988f8ffe8ae3dc2db95b4cb858d9e3310))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/shopify ([#2492](https://github.com/adaptdk/marketplace-partner-apps/issues/2492)) ([4d5e309](https://github.com/adaptdk/marketplace-partner-apps/commit/4d5e3095d22aa7b0fcdea465e0454dfd3f916d61))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/shopify in the production-dependencies group ([#2800](https://github.com/adaptdk/marketplace-partner-apps/issues/2800)) ([ad192bc](https://github.com/adaptdk/marketplace-partner-apps/commit/ad192bc19d727adca88eb735f65eebac71aa4196))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/shopify in the production-dependencies group ([#2847](https://github.com/adaptdk/marketplace-partner-apps/issues/2847)) ([2abda78](https://github.com/adaptdk/marketplace-partner-apps/commit/2abda783f3c0e96be40f01b2e903da45d699332a))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/shopify in the production-dependencies group ([#2892](https://github.com/adaptdk/marketplace-partner-apps/issues/2892)) ([e4ae30b](https://github.com/adaptdk/marketplace-partner-apps/commit/e4ae30b22f2c2e4cce2ea8692a105c1545052833))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/shopify in the production-dependencies group ([#2921](https://github.com/adaptdk/marketplace-partner-apps/issues/2921)) ([17012fd](https://github.com/adaptdk/marketplace-partner-apps/commit/17012fdd8859514a6e6b7102f6ebb266fc90d50f))
+* **deps:** bump core-js from 3.37.1 to 3.38.0 in /apps/shopify ([#2440](https://github.com/adaptdk/marketplace-partner-apps/issues/2440)) ([21c1175](https://github.com/adaptdk/marketplace-partner-apps/commit/21c117529cbef55075662b8eaf67c5688088b24d))
+* **deps:** bump core-js from 3.38.0 to 3.38.1 in /apps/shopify ([#2574](https://github.com/adaptdk/marketplace-partner-apps/issues/2574)) ([33b488f](https://github.com/adaptdk/marketplace-partner-apps/commit/33b488fd5e3572a575bd6b729b595f11bded65ee))
+* **deps:** bump micromatch from 4.0.5 to 4.0.8 in /apps/shopify ([#2645](https://github.com/adaptdk/marketplace-partner-apps/issues/2645)) ([69e3f9e](https://github.com/adaptdk/marketplace-partner-apps/commit/69e3f9eae13f34a85f54ade3ab4d0485cfe3d1e6))
+
 ## [2.0.4](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.0.3...shopify-sku-v2.0.4) (2024-09-03)
 
 

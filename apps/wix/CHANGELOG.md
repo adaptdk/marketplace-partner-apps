@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.0.14](https://github.com/adaptdk/marketplace-partner-apps/compare/wix-contentful-app-v1.0.13...wix-contentful-app-v1.0.14) (2024-09-16)
+
+
+### Bug Fixes
+
+* **deps:** Bump @contentful/app-sdk from 4.28.0 to 4.29.0 in /apps/wix ([#2347](https://github.com/adaptdk/marketplace-partner-apps/issues/2347)) ([6cd61d3](https://github.com/adaptdk/marketplace-partner-apps/commit/6cd61d381e8f8bd53377149e31260ce2bee5bb27))
+* **deps:** bump @contentful/app-sdk from 4.29.0 to 4.29.1 in /apps/wix ([#2543](https://github.com/adaptdk/marketplace-partner-apps/issues/2543)) ([2dc3594](https://github.com/adaptdk/marketplace-partner-apps/commit/2dc3594f78cd707bd664d6ed9ead6e2b92612923))
+* **deps:** bump @contentful/f36-components from 4.67.3 to 4.67.4 in /apps/wix ([#2390](https://github.com/adaptdk/marketplace-partner-apps/issues/2390)) ([d986eaa](https://github.com/adaptdk/marketplace-partner-apps/commit/d986eaad1432265c3380a04cc64b0d0b1b930049))
+* **deps:** bump @contentful/f36-components from 4.67.4 to 4.68.1 in /apps/wix ([#2485](https://github.com/adaptdk/marketplace-partner-apps/issues/2485)) ([5d98cc3](https://github.com/adaptdk/marketplace-partner-apps/commit/5d98cc33082b41b5fcd86ba04c9007305bd41048))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/wix in the production-dependencies group ([#2802](https://github.com/adaptdk/marketplace-partner-apps/issues/2802)) ([36cc016](https://github.com/adaptdk/marketplace-partner-apps/commit/36cc016554e1687bfe849f84f6cde3247839d51b))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/wix in the production-dependencies group ([#2899](https://github.com/adaptdk/marketplace-partner-apps/issues/2899)) ([f7a3981](https://github.com/adaptdk/marketplace-partner-apps/commit/f7a3981de8cd71de4ca0d6144afa8b6f1707cbd3))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/wix in the production-dependencies group ([#2935](https://github.com/adaptdk/marketplace-partner-apps/issues/2935)) ([7b49a15](https://github.com/adaptdk/marketplace-partner-apps/commit/7b49a1500737d286157d9333ece2b5ec1ac685a7))
+* **deps:** bump contentful-management from 11.29.1 to 11.30.2 in /apps/wix ([#2355](https://github.com/adaptdk/marketplace-partner-apps/issues/2355)) ([c36e64d](https://github.com/adaptdk/marketplace-partner-apps/commit/c36e64dd86f4331fd1c4866dda9e576e14c33347))
+* **deps:** bump contentful-management from 11.30.2 to 11.31.0 in /apps/wix ([#2408](https://github.com/adaptdk/marketplace-partner-apps/issues/2408)) ([e47ddfd](https://github.com/adaptdk/marketplace-partner-apps/commit/e47ddfd1bb36873ff5818986a979e57db8b7cf32))
+* **deps:** bump contentful-management from 11.31.0 to 11.31.1 in /apps/wix ([#2427](https://github.com/adaptdk/marketplace-partner-apps/issues/2427)) ([7b0ad0e](https://github.com/adaptdk/marketplace-partner-apps/commit/7b0ad0e838eaf740efbb686d260ac1aac4dc8e29))
+* **deps:** bump contentful-management from 11.31.1 to 11.31.6 in /apps/wix ([#2555](https://github.com/adaptdk/marketplace-partner-apps/issues/2555)) ([391fcda](https://github.com/adaptdk/marketplace-partner-apps/commit/391fcda71827daf611d68aab7c5e529e4d0f1be9))
+* **deps:** bump contentful-management from 11.31.6 to 11.31.7 in /apps/wix ([#2596](https://github.com/adaptdk/marketplace-partner-apps/issues/2596)) ([7d6fe2e](https://github.com/adaptdk/marketplace-partner-apps/commit/7d6fe2e88d907ebaac12f919049a6c1798f7078e))
+* **deps:** bump contentful-management from 11.31.7 to 11.31.8 in /apps/wix in the production-dependencies group ([#2611](https://github.com/adaptdk/marketplace-partner-apps/issues/2611)) ([7dbaa71](https://github.com/adaptdk/marketplace-partner-apps/commit/7dbaa713e246d005b9eca874c89f075a263715fb))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/wix in the production-dependencies group ([#2688](https://github.com/adaptdk/marketplace-partner-apps/issues/2688)) ([5c8dea9](https://github.com/adaptdk/marketplace-partner-apps/commit/5c8dea9b5d368c1ed1a5a254cb9edd52be799490))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/wix in the production-dependencies group ([#2749](https://github.com/adaptdk/marketplace-partner-apps/issues/2749)) ([004e698](https://github.com/adaptdk/marketplace-partner-apps/commit/004e69853693de204dc84bc7e5703f5f9c2d76db))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/wix in the production-dependencies group ([#2761](https://github.com/adaptdk/marketplace-partner-apps/issues/2761)) ([9093aa2](https://github.com/adaptdk/marketplace-partner-apps/commit/9093aa20c4b13371a61fed05fda5c7afcfeb0d69))
+* **deps:** Bump react-router from 6.24.1 to 6.25.1 in /apps/wix ([#2345](https://github.com/adaptdk/marketplace-partner-apps/issues/2345)) ([fe963d3](https://github.com/adaptdk/marketplace-partner-apps/commit/fe963d3cdac51068f719cfcd31768c722036a275))
+* **deps:** bump react-router from 6.25.1 to 6.26.0 in /apps/wix ([#2426](https://github.com/adaptdk/marketplace-partner-apps/issues/2426)) ([fdf2a64](https://github.com/adaptdk/marketplace-partner-apps/commit/fdf2a6412ea776345be54e37b93f68fb19c2c9ad))
+* **deps:** bump react-router from 6.26.0 to 6.26.1 in /apps/wix ([#2528](https://github.com/adaptdk/marketplace-partner-apps/issues/2528)) ([33e845d](https://github.com/adaptdk/marketplace-partner-apps/commit/33e845dab3cb368a592426b5a3747f276e014b42))
+* **deps:** bump react-router-dom from 6.25.1 to 6.26.0 in /apps/wix ([#2439](https://github.com/adaptdk/marketplace-partner-apps/issues/2439)) ([12414a9](https://github.com/adaptdk/marketplace-partner-apps/commit/12414a9be75d9cca7f65c657126b880e8f822bdf))
+* **deps:** bump react-router-dom from 6.26.0 to 6.26.1 in /apps/wix ([#2529](https://github.com/adaptdk/marketplace-partner-apps/issues/2529)) ([e0345e6](https://github.com/adaptdk/marketplace-partner-apps/commit/e0345e664d8bba0c1db61ba89808322e5bcdd47e))
+* **deps:** bump the production-dependencies group in /apps/wix with 3 updates ([#2859](https://github.com/adaptdk/marketplace-partner-apps/issues/2859)) ([1c17547](https://github.com/adaptdk/marketplace-partner-apps/commit/1c17547f36d37b856b0ab1296eaf0c634ba21f83))
+
 ## [1.0.13](https://github.com/contentful/marketplace-partner-apps/compare/wix-contentful-app-v1.0.12...wix-contentful-app-v1.0.13) (2024-09-03)
 
 

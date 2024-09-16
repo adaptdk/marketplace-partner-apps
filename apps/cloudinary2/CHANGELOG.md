@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.2.0](https://github.com/adaptdk/marketplace-partner-apps/compare/cloudinary-assets-v1.1.1...cloudinary-assets-v1.2.0) (2024-09-16)
+
+
+### Features
+
+* Added support for AVIF image thumbnails [CCS-1240] ([#2498](https://github.com/adaptdk/marketplace-partner-apps/issues/2498)) ([f739b4e](https://github.com/adaptdk/marketplace-partner-apps/commit/f739b4e1c81e723e333a7690d8175d06e971e175))
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.67.0 to 4.67.4 in /apps/cloudinary2 ([#2428](https://github.com/adaptdk/marketplace-partner-apps/issues/2428)) ([8d0e9ee](https://github.com/adaptdk/marketplace-partner-apps/commit/8d0e9eee5d3d73e680f6d5f564440f28a76efbbc))
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/cloudinary2 in the production-dependencies group ([#2786](https://github.com/adaptdk/marketplace-partner-apps/issues/2786)) ([46f0b9d](https://github.com/adaptdk/marketplace-partner-apps/commit/46f0b9d5d638eac03d4988c166169af36ae768d7))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/cloudinary2 in the production-dependencies group ([#2838](https://github.com/adaptdk/marketplace-partner-apps/issues/2838)) ([c2706b3](https://github.com/adaptdk/marketplace-partner-apps/commit/c2706b375263d406447c07ed7b8e3e17e745b5b7))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/cloudinary2 in the production-dependencies group ([#2891](https://github.com/adaptdk/marketplace-partner-apps/issues/2891)) ([f2ff39e](https://github.com/adaptdk/marketplace-partner-apps/commit/f2ff39efc00c08d100c4c99e34b8423d60a39ac5))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/cloudinary2 in the production-dependencies group ([#2917](https://github.com/adaptdk/marketplace-partner-apps/issues/2917)) ([b593e98](https://github.com/adaptdk/marketplace-partner-apps/commit/b593e985f766461a11a7ec8a89760732c8398043))
+* **deps:** bump @emotion/css from 11.11.2 to 11.13.0 in /apps/cloudinary2 ([#2394](https://github.com/adaptdk/marketplace-partner-apps/issues/2394)) ([af20586](https://github.com/adaptdk/marketplace-partner-apps/commit/af20586f829dc9846d241b8262f3e6cc5512d3fc))
+* **deps:** bump @emotion/react from 11.11.4 to 11.13.0 in /apps/cloudinary2 ([#2393](https://github.com/adaptdk/marketplace-partner-apps/issues/2393)) ([8a05d6e](https://github.com/adaptdk/marketplace-partner-apps/commit/8a05d6e14cf051fa22f0ec40f0353bd8728d7d87))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/cloudinary2 in the production-dependencies group ([#2698](https://github.com/adaptdk/marketplace-partner-apps/issues/2698)) ([1ec65cc](https://github.com/adaptdk/marketplace-partner-apps/commit/1ec65cca2add7777bbb0de59b84082adf4b5164b))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/cloudinary2 in the production-dependencies group ([#2738](https://github.com/adaptdk/marketplace-partner-apps/issues/2738)) ([975f9c6](https://github.com/adaptdk/marketplace-partner-apps/commit/975f9c6ceb126b8153b39946a70ec256f31a3dda))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/cloudinary2 in the production-dependencies group ([#2759](https://github.com/adaptdk/marketplace-partner-apps/issues/2759)) ([4b51e20](https://github.com/adaptdk/marketplace-partner-apps/commit/4b51e206c3c76f4cddc5840d99c8629e6e2d06ea))
+* **deps:** bump the production-dependencies group in /apps/cloudinary2 with 4 updates ([#2662](https://github.com/adaptdk/marketplace-partner-apps/issues/2662)) ([0269b94](https://github.com/adaptdk/marketplace-partner-apps/commit/0269b94c96d8f1149b9ed9f3964b67e0ea500f70))
+
 ## [1.1.1](https://github.com/contentful/marketplace-partner-apps/compare/cloudinary-assets-v1.1.0...cloudinary-assets-v1.1.1) (2024-09-03)
 
 

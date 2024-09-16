@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.5](https://github.com/adaptdk/marketplace-partner-apps/compare/bynder-content-workflow-v1.0.4...bynder-content-workflow-v1.0.5) (2024-09-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/bynder-content-workflow in the production-dependencies group ([#2918](https://github.com/adaptdk/marketplace-partner-apps/issues/2918)) ([c679d48](https://github.com/adaptdk/marketplace-partner-apps/commit/c679d483e33d78aa6a7bdeb633848521dc99938d))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.5.2 to 16.6.8 in /apps/bynder-content-workflow ([#2402](https://github.com/adaptdk/marketplace-partner-apps/issues/2402)) ([6ee1772](https://github.com/adaptdk/marketplace-partner-apps/commit/6ee1772236a74ed6f19fd834a29b56ec753e5f54))
+* **deps:** bump contentful-management from 10.38.3 to 11.31.7 in /apps/bynder-content-workflow ([#2597](https://github.com/adaptdk/marketplace-partner-apps/issues/2597)) ([5b78ec1](https://github.com/adaptdk/marketplace-partner-apps/commit/5b78ec110410f44f4bc5ed99a4e5ae4f1913ab78))
+* **deps:** bump the production-dependencies group in /apps/bynder-content-workflow with 2 updates ([#2901](https://github.com/adaptdk/marketplace-partner-apps/issues/2901)) ([a7c5285](https://github.com/adaptdk/marketplace-partner-apps/commit/a7c5285208e70421ea19443a6cbdda60274f68b1))
+* **deps:** bump the production-dependencies group in /apps/bynder-content-workflow with 9 updates ([#2631](https://github.com/adaptdk/marketplace-partner-apps/issues/2631)) ([fa78dbd](https://github.com/adaptdk/marketplace-partner-apps/commit/fa78dbd47cd5b446baa0cbfdee07f2d07381a740))
+
 ## [1.0.4](https://github.com/contentful/marketplace-partner-apps/compare/bynder-content-workflow-v1.0.3...bynder-content-workflow-v1.0.4) (2024-09-03)
 
 
